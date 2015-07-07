@@ -4,6 +4,7 @@ cd  programs
 git clone https://github.com/toxxy/mexcoin.git
 apt-get install build-essential
 apt-get install libboost-dev
+apt-get install libboost-all-dev 
 apt-get install libdb4.8-dev
 apt-get install libssl-dev
 apt-get install libdb5.1++-dev
